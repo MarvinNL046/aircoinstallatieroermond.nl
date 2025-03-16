@@ -9,10 +9,10 @@ import { generateOrganizationSchema } from "@/lib/schema"
 import Script from "next/script"
 
 export const metadata: Metadata = {
-  title: 'StayCool Airco Brunssum | #1 in Airconditioning ✓',
-  description: 'Dé airco specialist van Brunssum! Professionele airco installatie voor woning en bedrijf door StayCool Airco. ✓ Gratis offerte ✓ Erkend installateur ✓ Alle topmerken ✓ 5 jaar garantie. Bel: 046 202 1430',
+  title: 'StayCool Airco Roermond | #1 in Airconditioning ✓',
+  description: 'Dé airco specialist van Roermond! Professionele airco installatie voor woning en bedrijf door StayCool Airco. ✓ Gratis offerte ✓ Erkend installateur ✓ Alle topmerken ✓ 5 jaar garantie. Bel: 046 202 1430',
   alternates: {
-    canonical: 'https://aircoinstallatiebrunssum.nl'
+    canonical: 'https://aircoinstallatieroermond.nl'
   }
 }
 
@@ -46,7 +46,7 @@ export default function HomePage() {
             </div>
             <div className="text-center mt-8">
               <p className="text-lg text-muted-foreground">
-                Ontdek hoe StayCool Airco uw ideale partner is voor airconditioning in Brunssum en omgeving.
+                Ontdek hoe StayCool Airco uw ideale partner is voor airconditioning in Roermond en omgeving.
               </p>
               <p className="mt-4">
                 <a 

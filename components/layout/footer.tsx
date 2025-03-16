@@ -20,10 +20,10 @@ export function Footer() {
           <div>
             <div className="flex items-center space-x-2">
               <AirVent className="h-6 w-6" />
-              <span className="font-bold">StayCool Airco Brunssum</span>
+              <span className="font-bold">StayCool Airco Roermond</span>
             </div>
             <p className="mt-4 text-sm text-blue-200">
-              Professionele airconditioning installatie in Brunssum en omgeving. Erkend en gecertificeerd.
+              Professionele airconditioning installatie in Roermond en omgeving. Erkend en gecertificeerd.
             </p>
             <p className="mt-2 text-sm text-blue-200">
               <a href="https://staycoolairco.nl" className="underline hover:text-white" target="_blank" rel="noopener noreferrer">
@@ -49,7 +49,7 @@ export function Footer() {
               </li>
               <li className="flex items-center space-x-2">
                 <MapPin className="h-4 w-4" />
-                <span>Brunssum en omgeving</span>
+                <span>Roermond en omgeving</span>
               </li>
             </ul>
           </div>

@@ -4,13 +4,13 @@ export function generateOrganizationSchema(): WithContext<Organization> {
   return {
     "@context": "https://schema.org",
     "@type": "Organization",
-    name: "StayCool Airco Brunssum",
-    url: "https://aircoinstallatiebrunssum.nl",
+    name: "StayCool Airco Roermond",
+    url: "https://aircoinstallatieroermond.nl",
     logo: "https://staycoolairco.nl/logo.png",
-    description: "Professionele airconditioning installatie in Brunssum door StayCool Airco",
+    description: "Professionele airconditioning installatie in Roermond door StayCool Airco",
     address: {
       "@type": "PostalAddress",
-      addressLocality: "Brunssum",
+      addressLocality: "Roermond",
       addressRegion: "Limburg",
       addressCountry: "NL",
     },
@@ -27,7 +27,7 @@ export function generateOrganizationSchema(): WithContext<Organization> {
     ],
     areaServed: {
       "@type": "City",
-      name: "Brunssum",
+      name: "Roermond",
     }
   }
 }
@@ -48,7 +48,7 @@ export function generateServiceSchema(service: {
     },
     areaServed: {
       "@type": "City",
-      name: "Brunssum",
+      name: "Roermond",
     },
     offers: {
       "@type": "Offer",
@@ -67,7 +67,7 @@ export function generateLocalBusinessSchema(city: string): WithContext<LocalBusi
     "@type": "LocalBusiness",
     name: `StayCool Airco - Airco Installatie ${city}`,
     description: `Professionele airconditioning installatie en onderhoud in ${city} door StayCool Airco. Erkend en gecertificeerd installateur.`,
-    url: `https://aircoinstallatiebrunssum.nl/steden/${city.toLowerCase()}`,
+    url: `https://aircoinstallatieroermond.nl/steden/${city.toLowerCase()}`,
     telephone: "+31462021430",
     email: "info@staycoolairco.nl",
     areaServed: {
@@ -95,7 +95,7 @@ export function generateBreadcrumbSchema(items: { name: string; item: string }[]
       "@type": "ListItem",
       position: index + 1,
       name: item.name,
-      item: `https://aircoinstallatiebrunssum.nl${item.item}`,
+      item: `https://aircoinstallatieroermond.nl${item.item}`,
     })),
   }
 }

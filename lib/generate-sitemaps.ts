@@ -5,7 +5,7 @@ import diensten from '@/data/diensten.json'
 
 // Function to get the site URL
 function getSiteUrl() {
-  return process.env.NEXT_PUBLIC_SITE_URL || 'https://aircoinstallatiebrunssum.nl';
+  return process.env.NEXT_PUBLIC_SITE_URL || 'https://aircoinstallatieroermond.nl';
 }
 
 async function generateServicesSitemap() {

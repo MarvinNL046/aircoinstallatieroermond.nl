@@ -130,7 +130,7 @@ export const metadata = {
     },
   },
   verification: {
-    google: ['F7ziqeuiZtQK3wDaKBZ65SgfDN61xAKq09v9PUpqQSY', 'MdrWkChgCAkLEzChgLv_KvDquI5UppXLSFI-WrxLS6E'],
+    google: ['F7ziqeuiZtQK3wDaKBZ65SgfDN61xAKq09v9PUpqQSY', 'MdrWkChgCAkLEzChgLv_KvDquI5UppXLSFI-WrxLS6E', '0aQehO9ykONkS3m7hJ87SHcCYeJGRrq4L6wrTgctg9g'],
     yandex: 'verification_token',
     yahoo: 'verification_token',
   }

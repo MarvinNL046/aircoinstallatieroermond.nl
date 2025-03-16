@@ -24,7 +24,7 @@ export function CTABanner({ theme = "light" }: CTABannerProps) {
           </p>
           <div className="flex flex-wrap gap-2">
             <Button size="sm" variant="outline" asChild>
-              <Link href="tel:+31612345678">
+              <Link href="tel:0462021430">
                 <Phone className="mr-2 h-4 w-4" />
                 Bel Direct
               </Link>

@@ -31,7 +31,10 @@ export default function ContactForm() {
     setStatus('sending');
 
     try {
-      await sendEmail(formData);
+      await sendEmail({
+        ...formData,
+        city: 'Roermond'
+      });
       setStatus('success');
       setFormData({ name: '', email: '', phone: '', message: '' });
     } catch (error) {

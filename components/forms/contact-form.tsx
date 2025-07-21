@@ -22,7 +22,10 @@ export function ContactForm() {
     setIsSubmitting(true)
 
     try {
-      await sendEmail(formData)
+      await sendEmail({
+        ...formData,
+        city: 'Roermond'
+      })
       toast.success("Uw aanvraag is succesvol verzonden!")
       setFormData({
         name: "",

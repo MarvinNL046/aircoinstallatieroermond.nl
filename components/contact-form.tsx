@@ -28,7 +28,10 @@ export function ContactForm({ cityName }: ContactFormProps) {
     setIsSubmitting(true)
 
     try {
-      await sendEmail(formData)
+      await sendEmail({
+        ...formData,
+        city: cityName || 'Roermond'
+      })
       toast.success("Uw aanvraag is succesvol verzonden!")
       setFormData({
         name: "",

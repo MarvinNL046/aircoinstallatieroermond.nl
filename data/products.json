@@ -1,0 +1,713 @@
+{
+  "categories": [
+    {
+      "id": "wandmodellen",
+      "name": "Wandmodellen",
+      "description": "Populaire wandgemonteerde airco's voor elke ruimte"
+    },
+    {
+      "id": "vloermodellen", 
+      "name": "Vloermodellen",
+      "description": "Stijlvolle vloerstaande airconditioners"
+    },
+    {
+      "id": "cassette",
+      "name": "Cassette Modellen",
+      "description": "Inbouw plafond airconditioners"
+    },
+    {
+      "id": "mobiele-airco",
+      "name": "Mobiele Airco's",
+      "description": "Flexibele mobiele airconditioners"
+    }
+  ],
+  "products": [
+    {
+      "id": "daikin-emura",
+      "name": "Daikin Emura",
+      "brand": "Daikin",
+      "category": "wandmodellen",
+      "description": "Premium designmodel met elegante afwerking",
+      "features": [
+        "Zeer energiezuinig (A+++ rating)",
+        "Fluisterstille werking (19 dB)", 
+        "WiFi bediening via app",
+        "3D-luchtstroom technologie",
+        "R-32 koudemiddel"
+      ],
+      "images": [
+        "/images/daikin-emura-wit.webp",
+        "/images/daikin-emura-zilver.webp", 
+        "/images/daikin-emura-zwart.webp"
+      ],
+      "colors": ["Wit", "Zilver", "Zwart"],
+      "ctaText": "Vraag offerte aan voor Daikin Emura"
+    },
+    {
+      "id": "daikin-stylish",
+      "name": "Daikin Stylish",
+      "brand": "Daikin",
+      "category": "wandmodellen",
+      "description": "Stijlvol en modern design met uitstekende prestaties",
+      "features": [
+        "Elegant plat design",
+        "Coanda-effect voor optimale luchtverdeling",
+        "Intelligent oog sensor",
+        "2-zone bewegingssensor",
+        "Flash Streamer technologie"
+      ],
+      "images": [
+        "/images/daikin-stylish-wit.webp",
+        "/images/daikin-stylish-silver.webp",
+        "/images/daikin-stylish-zwart.webp"
+      ],
+      "colors": ["Wit", "Zilver", "Zwart"],
+      "ctaText": "Informatie over Daikin Stylish"
+    },
+    {
+      "id": "daikin-comfora",
+      "name": "Daikin Comfora",
+      "brand": "Daikin", 
+      "category": "wandmodellen",
+      "description": "Betrouwbare kwaliteit met uitstekende prijs-kwaliteitverhouding",
+      "features": [
+        "Hoge energie-efficiëntie",
+        "Onecta app bediening",
+        "Titanium Apatiet fotokatalytisch filter",
+        "Intelligente thermostaatfunctie",
+        "5 jaar garantie"
+      ],
+      "images": [
+        "/images/daikin-comfora-left.webp",
+        "/images/daikin-comfora-right.webp",
+        "/images/daikin comfora-onectaApp.webp"
+      ],
+      "colors": ["Wit"],
+      "ctaText": "Offerte aanvragen Daikin Comfora"
+    },
+    {
+      "id": "daikin-sensira",
+      "name": "Daikin Sensira",
+      "brand": "Daikin",
+      "category": "wandmodellen", 
+      "description": "Instapmodel met alle essentiële functies",
+      "features": [
+        "Betrouwbaar instapmodel",
+        "Energielabel A++",
+        "Eenvoudige bediening",
+        "Compact design",
+        "Goede prijs-kwaliteitverhouding"
+      ],
+      "images": [
+        "/images/daikin-sensira-wit.webp"
+      ],
+      "colors": ["Wit"],
+      "ctaText": "Meer info over Daikin Sensira"
+    },
+    {
+      "id": "daikin-perfera",
+      "name": "Daikin Perfera",
+      "brand": "Daikin",
+      "category": "wandmodellen",
+      "description": "Premium model met geavanceerde functies",
+      "features": [
+        "A+++ energielabel",
+        "Flash Streamer luchtzuivering",
+        "3D-luchtstroom",
+        "WiFi module geïntegreerd", 
+        "Intelligent oog sensor"
+      ],
+      "images": [
+        "/images/daikin-perfera-wit.webp"
+      ],
+      "colors": ["Wit"],
+      "ctaText": "Daikin Perfera offerte"
+    },
+    {
+      "id": "daikin-ururu-sarara-vloer",
+      "name": "Daikin Ururu Sarara Vloermodel",
+      "brand": "Daikin",
+      "category": "vloermodellen",
+      "description": "Hoogwaardige vloerstaande airco met unieke functies",
+      "features": [
+        "Luchtbevochtiging en -ontvochtiger",
+        "Automatische luchtzuivering",
+        "Zeer stille werking",
+        "Premium design",
+        "Geavanceerde regeling"
+      ],
+      "images": [
+        "/images/Ururu-Sarara-left.webp",
+        "/images/Ururu-Sarara-right.webp"
+      ],
+      "colors": ["Wit"],
+      "ctaText": "Informatie Ururu Sarara vloermodel"
+    },
+    {
+      "id": "daikin-perfera-vloer",
+      "name": "Daikin Perfera Vloermodel", 
+      "brand": "Daikin",
+      "category": "vloermodellen",
+      "description": "Stijlvolle vloerstaande versie van het Perfera model",
+      "features": [
+        "Vloerstaande installatie",
+        "Gelijke prestaties als wandmodel",
+        "Mooi design",
+        "Eenvoudige plaatsing",
+        "Flexibele opstelling"
+      ],
+      "images": [
+        "/images/Perfera-vloermodel-left.webp",
+        "/images/Perfera vloermodel-right.webp"
+      ],
+      "colors": ["Wit"],
+      "ctaText": "Daikin Perfera vloermodel offerte"
+    },
+    {
+      "id": "mitsubishi-titanium-zs",
+      "name": "Mitsubishi Heavy Titanium ZS",
+      "brand": "Mitsubishi",
+      "category": "wandmodellen",
+      "description": "Robuuste kwaliteit met titanium coating",
+      "features": [
+        "Titanium gecoate warmtewisselaar",
+        "Plasma Quad Connect filter",
+        "Hyper Heating technologie",
+        "Zeer energiezuinig",
+        "WiFi module optioneel"
+      ],
+      "images": [
+        "/images/Mitsubishi heavy indus/Mitsubishi-titanium-zs-wft-1.webp",
+        "/images/Mitsubishi heavy indus/Mitsubishi-titanium-zs-wft-2.5-3.5-5.0kw-1-510x510.webp",
+        "/images/Mitsubishi heavy indus/Mitsubishi-titanium-zs-wft.webp"
+      ],
+      "colors": ["Wit"],
+      "ctaText": "Mitsubishi Heavy Titanium info"
+    },
+    {
+      "id": "mitsubishi-zsx-t",
+      "name": "Mitsubishi Heavy ZSX-T",
+      "brand": "Mitsubishi", 
+      "category": "wandmodellen",
+      "description": "Premium model met geavanceerde prestaties",
+      "features": [
+        "Zeer hoge efficiëntie",
+        "Geavanceerde filteropties",
+        "Stille werking", 
+        "Betrouwbare kwaliteit",
+        "Lange levensduur"
+      ],
+      "images": [
+        "/images/Mitsubishi heavy indus/ZSX-T-510x512.webp"
+      ],
+      "colors": ["Wit"],
+      "ctaText": "ZSX-T model informatie"
+    },
+    {
+      "id": "mitsubishi-srk-zs",
+      "name": "Mitsubishi Heavy SRK ZS",
+      "brand": "Mitsubishi",
+      "category": "wandmodellen", 
+      "description": "Betrouwbaar instapmodel voor elke ruimte",
+      "features": [
+        "Goede prijs-kwaliteit verhouding",
+        "Betrouwbare prestaties",
+        "Eenvoudige bediening",
+        "Compact design",
+        "Verschillende capaciteiten"
+      ],
+      "images": [
+        "/images/Mitsubishi heavy indus/srk50zs-wf-wit-single-split-airco-wandmodel-2.5-3.5-5kw-1.webp",
+        "/images/Mitsubishi heavy indus/srk50zs-wf-wit-single-split-airco-wandmodel-2.5-3.5-5kw-510x510.webp"
+      ],
+      "colors": ["Wit"],
+      "ctaText": "SRK ZS serie offerte"
+    },
+    {
+      "id": "mitsubishi-vloermodel",
+      "name": "Mitsubishi Heavy Vloermodel",
+      "brand": "Mitsubishi",
+      "category": "vloermodellen",
+      "description": "Professionele vloerstaande airconditioning",
+      "features": [
+        "Krachtige prestaties",
+        "Vloerstaande installatie",
+        "Ideaal voor grotere ruimtes",
+        "Robuuste constructie",
+        "Professionele kwaliteit"
+      ],
+      "images": [
+        "/images/Mitsubishi heavy indus/Mitsubishi-Heavy-SRF-35-ZS-W-Vloer-unit-35-kW-Exclusief-buiten-unit.webp",
+        "/images/Mitsubishi heavy indus/Mitsubishi-aircowebwinkel-vloermodel.webp"
+      ],
+      "colors": ["Wit"],
+      "ctaText": "Mitsubishi vloermodel informatie"
+    },
+    {
+      "id": "samsung-windfree-elite",
+      "name": "Samsung WindFree Elite",
+      "brand": "Samsung",
+      "category": "wandmodellen",
+      "description": "Premium model zonder koude luchtstroom",
+      "features": [
+        "WindFree technologie",
+        "AI Auto Cooling",
+        "SmartThings connectiviteit",
+        "Digital Inverter Boost",
+        "Zeer energiezuinig"
+      ],
+      "images": [
+        "/images/samsung/windfreeElite/WindFree Elite_S2_Front_Web_RGB.webp",
+        "/images/samsung/windfreeElite/WindFree Elite_S2_Left_Web_RGB.webp",
+        "/images/samsung/windfreeElite/WindFree Elite_S2_Right_Web_RGB.webp",
+        "/images/samsung/windfreeElite/Samsung RAC WindFree Elite_Sfeerbeeld_001.webp",
+        "/images/samsung/windfreeElite/Samsung RAC WindFree Elite_Sfeerbeeld_002.webp"
+      ],
+      "colors": ["Wit"],
+      "ctaText": "Samsung WindFree Elite offerte"
+    },
+    {
+      "id": "samsung-windfree-comfort",
+      "name": "Samsung WindFree Comfort",
+      "brand": "Samsung",
+      "category": "wandmodellen",
+      "description": "Comfort zonder koude luchtstroom voor dagelijks gebruik",
+      "features": [
+        "WindFree koeling",
+        "Fast Cooling modus",
+        "Auto Clean functie",
+        "2-step Cooling",
+        "Goede efficiëntie"
+      ],
+      "images": [
+        "/images/samsung/windfreeComfort/WindFree Comfort_S2_Front_Web_RGB.webp",
+        "/images/samsung/windfreeComfort/WindFree Comfort_S2_Left_Web_RGB.webp",
+        "/images/samsung/windfreeComfort/WindFree Comfort_S2_Right_Web_RGB.webp",
+        "/images/samsung/windfreeComfort/Samsung RAC WindFree Comfort_Sfeerbeeld_001.webp"
+      ],
+      "colors": ["Wit"],
+      "ctaText": "WindFree Comfort informatie"
+    },
+    {
+      "id": "samsung-windfree-avant-black",
+      "name": "Samsung WindFree Avant Black",
+      "brand": "Samsung", 
+      "category": "wandmodellen",
+      "description": "Stijlvol zwart design met WindFree technologie",
+      "features": [
+        "Elegant zwart design",
+        "WindFree koeling",
+        "Premium afwerking",
+        "Smart control",
+        "Moderne uitstraling"
+      ],
+      "images": [
+        "/images/samsung/windreeAvantBlack/WindFree Avant Black_Front_Web_RGB.webp",
+        "/images/samsung/windreeAvantBlack/WindFree Avant Black_Left_Web_RGB.webp",
+        "/images/samsung/windreeAvantBlack/WindFree Avant Black_Right_Web_RGB.webp",
+        "/images/samsung/windreeAvantBlack/Samsung RAC WindFree Avant Black_Sfeerbeeld_001.webp"
+      ],
+      "colors": ["Zwart"],
+      "ctaText": "WindFree Avant Black offerte"
+    },
+    {
+      "id": "samsung-luzon",
+      "name": "Samsung Luzon",
+      "brand": "Samsung",
+      "category": "wandmodellen",
+      "description": "Betrouwbaar instapmodel met goede prestaties",
+      "features": [
+        "Betrouwbare prestaties",
+        "Triangle Design",
+        "Fast Cooling",
+        "Good Sleep modus",
+        "Goede prijs-kwaliteit"
+      ],
+      "images": [
+        "/images/samsung/luzon/Luzon_S2_Front_Web_RGB.webp",
+        "/images/samsung/luzon/Luzon_S2_Left_Web_RGB.webp", 
+        "/images/samsung/luzon/Luzon_S2_Right_Web_RGB.webp",
+        "/images/samsung/luzon/Samsung RAC Luzon_Sfeerbeeld_001.webp"
+      ],
+      "colors": ["Wit"],
+      "ctaText": "Samsung Luzon informatie"
+    },
+    {
+      "id": "samsung-360-cassette",
+      "name": "Samsung 360° Cassette",
+      "brand": "Samsung",
+      "category": "cassette",
+      "description": "Innovatieve 360° luchtverdeling via plafondmontage",
+      "features": [
+        "360° luchtverdeling",
+        "Plafond inbouw",
+        "Uniform comfort",
+        "Onzichtbare installatie",
+        "Professionele toepassing"
+      ],
+      "images": [
+        "/images/samsung/casette/360 Cassette - Rond - Front - Web.webp",
+        "/images/samsung/casette/360 Cassette - Rond - Angle - Web.webp"
+      ],
+      "colors": ["Wit"],
+      "ctaText": "360° Cassette informatie"
+    },
+    {
+      "id": "lg-artcool-mirror",
+      "name": "LG Artcool Mirror",
+      "brand": "LG",
+      "category": "wandmodellen",
+      "description": "Uniek spiegeldesign dat past in elk interieur",
+      "features": [
+        "Innovatief spiegeldesign",
+        "Dual Inverter Compressor",
+        "ThinQ WiFi besturing",
+        "Plasma luchtreiniging",
+        "Stijlvol interieur accent"
+      ],
+      "images": [
+        "/images/lg-artcool-mirror.webp"
+      ],
+      "colors": ["Zwart (Spiegel)"],
+      "ctaText": "LG Artcool Mirror offerte"
+    },
+    {
+      "id": "lg-artcool-black",
+      "name": "LG Artcool Black",
+      "brand": "LG",
+      "category": "wandmodellen",
+      "description": "Zwarte premium airco met stijlvol design",
+      "features": [
+        "Elegant zwart design",
+        "Dual Inverter technologie",
+        "Active Energy Control",
+        "UV Nano technologie",
+        "Smart Diagnosis"
+      ],
+      "images": [
+        "/images/rac-eu-lg-artcool-black.webp"
+      ],
+      "colors": ["Zwart"],
+      "ctaText": "LG Artcool Black informatie"
+    },
+    {
+      "id": "lg-dualcool-premium",
+      "name": "LG DualCool Premium",
+      "brand": "LG",
+      "category": "wandmodellen",
+      "description": "Premium model met dubbele koelfunctie",
+      "features": [
+        "DualCool technologie",
+        "Faster Cooling",
+        "Energy Saving",
+        "Smart ThinQ",
+        "Premium prestaties"
+      ],
+      "images": [
+        "/images/LG-dualcool-indoor-premium.webp",
+        "/images/LG-dualcool-indoor-premium-1.webp"
+      ],
+      "colors": ["Wit"],
+      "ctaText": "LG DualCool Premium offerte"
+    },
+    {
+      "id": "lg-standard-plus",
+      "name": "LG Standard Plus",
+      "brand": "LG",
+      "category": "wandmodellen",
+      "description": "Betrouwbaar model met alle essentiële functies",
+      "features": [
+        "Betrouwbare prestaties",
+        "Gold Fin anti-corrosie",
+        "Auto Cleaning",
+        "4-way swing",
+        "Goede prijs-kwaliteit"
+      ],
+      "images": [
+        "/images/rac-eu-standard-plus-.webp"
+      ],
+      "colors": ["Wit"],
+      "ctaText": "LG Standard Plus informatie"
+    },
+    {
+      "id": "lg-premium",
+      "name": "LG Premium",
+      "brand": "LG", 
+      "category": "wandmodellen",
+      "description": "Premium model met geavanceerde functies",
+      "features": [
+        "Premium kwaliteit",
+        "Geavanceerde features",
+        "Hoge efficiëntie",
+        "Smart functies",
+        "Betrouwbare werking"
+      ],
+      "images": [
+        "/images/rac-eu-lg-premium.webp"
+      ],
+      "colors": ["Wit"],
+      "ctaText": "LG Premium model offerte"
+    },
+    {
+      "id": "tosot-haori-serie",
+      "name": "Tosot Haori Serie",
+      "brand": "Tosot",
+      "category": "wandmodellen",
+      "description": "Stijlvolle serie in verschillende kleuren",
+      "features": [
+        "Verkrijgbaar in 5 kleuren",
+        "Modern design",
+        "Goede prijs-kwaliteit",
+        "Energiezuinig",
+        "Stille werking"
+      ],
+      "images": [
+        "/images/Haori-zwart-links_1_11zon.webp",
+        "/images/Haori-zwart-rechts_2_11zon.webp",
+        "/images/Haori-zwart-vooraanzicht_3_11zon.webp",
+        "/images/Haori-blauw-links_16_11zon.webp",
+        "/images/Haori-bruin-links_17_11zon.webp",
+        "/images/Haori-creme-links_18_11zon.webp",
+        "/images/Haori-grijs-links_19_11zon.webp"
+      ],
+      "colors": ["Zwart", "Blauw", "Bruin", "Crème", "Grijs"],
+      "ctaText": "Tosot Haori kleuren bekijken"
+    },
+    {
+      "id": "tosot-daiseikai-10",
+      "name": "Tosot Daiseikai 10",
+      "brand": "Tosot",
+      "category": "wandmodellen",
+      "description": "Elegant model verkrijgbaar in hout en wit",
+      "features": [
+        "Hout of wit design",
+        "Moderne uitstraling",
+        "Energiezuinige werking",
+        "Stille werking",
+        "Elegante afwerking"
+      ],
+      "images": [
+        "/images/Daiseikai 10-Hout-links-open_5_11zon.webp",
+        "/images/Daiseikai 10-Hout-sfeerfoto_1_11zon.webp",
+        "/images/Daiseikai 10-Hout-vooraanzicht_2_11zon.webp",
+        "/images/Daiseikai 10-Wit-rechts_3_11zon.webp",
+        "/images/Daiseikai 10-Wit-vooraanzicht_4_11zon.webp"
+      ],
+      "colors": ["Hout", "Wit"],
+      "ctaText": "Daiseikai 10 informatie"
+    },
+    {
+      "id": "tosot-seiya-plus",
+      "name": "Tosot Seiya Plus",
+      "brand": "Tosot",
+      "category": "wandmodellen", 
+      "description": "Plus model met uitgebreide functies",
+      "features": [
+        "Uitgebreide functionaliteit",
+        "Wit design",
+        "Goede prestaties",
+        "Betrouwbare kwaliteit",
+        "Comfortabel gebruik"
+      ],
+      "images": [
+        "/images/Seiya-plus-wit-links_9_11zon.webp",
+        "/images/Seiya-plus-wit-onderaanzicht-open_10_11zon.webp",
+        "/images/Seiya-plus-wit-rechts_11_11zon.webp",
+        "/images/Seiya-plus-wit-vooraanzicht_12_11zon.webp"
+      ],
+      "colors": ["Wit"],
+      "ctaText": "Seiya Plus offerte"
+    },
+    {
+      "id": "tosot-kazumi-plus",
+      "name": "Tosot Kazumi Plus",
+      "brand": "Tosot",
+      "category": "wandmodellen",
+      "description": "Plus uitvoering in zwart en wit",
+      "features": [
+        "Verkrijgbaar in zwart en wit",
+        "Plus uitvoering",
+        "Modern design", 
+        "Goede functionaliteit",
+        "Stijlvolle uitstraling"
+      ],
+      "images": [
+        "/images/Kazumi-plus-Black-links-open_4_11zon.webp",
+        "/images/Kazumi-plus-Black-rechts-open_5_11zon.webp",
+        "/images/Kazumi-plus-Black-vooraanzicht_6_11zon.webp",
+        "/images/Kazumi-plus-white-rechts_7_11zon.webp",
+        "/images/Kazumi-plus-white-vooraanzicht_8_11zon.webp"
+      ],
+      "colors": ["Zwart", "Wit"],
+      "ctaText": "Kazumi Plus informatie"
+    },
+    {
+      "id": "toshiba-console-vloer",
+      "name": "Toshiba Console Vloermodel",
+      "brand": "Toshiba",
+      "category": "vloermodellen",
+      "description": "Wit console vloerstaande airconditioning",
+      "features": [
+        "Console vloermodel",
+        "Wit design",
+        "Flexibele plaatsing",
+        "Goede prestaties",
+        "Betrouwbare kwaliteit"
+      ],
+      "images": [
+        "/images/toshiba-console-vloermodel-wit_13_11zon.webp",
+        "/images/toshiba-console-vloermodel-wit-linksboven_14_11zon.webp",
+        "/images/toshiba-console-vloermodel-wit-reacht_15_11zon.webp"
+      ],
+      "colors": ["Wit"],
+      "ctaText": "Toshiba Console informatie"
+    },
+    {
+      "id": "tosot-console-vloer",
+      "name": "Tosot Console Vloermodel",
+      "brand": "Tosot",
+      "category": "vloermodellen",
+      "description": "Console vloerstaande airco met afstandsbediening",
+      "features": [
+        "Console vloeruitvoering",
+        "Afstandsbediening",
+        "Eenvoudige bediening",
+        "Flexibele opstelling",
+        "Goede prijs-kwaliteit"
+      ],
+      "images": [
+        "/images/374-WTS-indoor-console-vloernmodel-tosot.webp",
+        "/images/375-WTS-remote-console-tosot.webp"
+      ],
+      "colors": ["Wit"],
+      "ctaText": "Tosot Console offerte"
+    },
+    {
+      "id": "gree-pular",
+      "name": "Gree Pular",
+      "brand": "Gree",
+      "category": "wandmodellen",
+      "description": "Betrouwbaar Gree model met goede prestaties",
+      "features": [
+        "Betrouwbare kwaliteit",
+        "Energiezuinig",
+        "Wit design",
+        "Goede prestaties",
+        "Aantrekkelijke prijs"
+      ],
+      "images": [
+        "/images/568-Pular-indoor-vooraanzicht.webp",
+        "/images/570-Pular-indoor-right.webp"
+      ],
+      "colors": ["Wit"],
+      "ctaText": "Gree Pular informatie"
+    },
+    {
+      "id": "gree-clivia-zwart",
+      "name": "Gree Clivia Zwart",
+      "brand": "Gree",
+      "category": "wandmodellen",
+      "description": "Elegante zwarte uitvoering van het Clivia model",
+      "features": [
+        "Elegant zwart design",
+        "Modern uiterlijk",
+        "Goede functionaliteit",
+        "Stijlvolle uitstraling",
+        "Betrouwbare prestaties"
+      ],
+      "images": [
+        "/images/710-clivia-zwart-zijkant.webp",
+        "/images/711-clivia-zwart-schuin.webp",
+        "/images/712-clivia-zwart-vooraanzicht.webp"
+      ],
+      "colors": ["Zwart"],
+      "ctaText": "Clivia Zwart offerte"
+    },
+    {
+      "id": "gree-clivia-wit",
+      "name": "Gree Clivia Wit",
+      "brand": "Gree",
+      "category": "wandmodellen",
+      "description": "Klassieke witte uitvoering van het populaire Clivia model",
+      "features": [
+        "Klassiek wit design",
+        "Bewezen betrouwbaarheid",
+        "Goede prijs-kwaliteit",
+        "Eenvoudige bediening",
+        "Duurzame kwaliteit"
+      ],
+      "images": [
+        "/images/723-clivia-wit-schuin.webp",
+        "/images/724-clivia-wit-vooraanzicht.webp",
+        "/images/727-clivia-wit-zijkant.webp"
+      ],
+      "colors": ["Wit"],
+      "ctaText": "Clivia Wit informatie"
+    },
+    {
+      "id": "gree-cosmo",
+      "name": "Gree Cosmo",
+      "brand": "Gree",
+      "category": "wandmodellen",
+      "description": "Modern Cosmo model met eigentijds design",
+      "features": [
+        "Modern design",
+        "Goede prestaties",
+        "Wit afwerking",
+        "Energiezuinig",
+        "Betrouwbare werking"
+      ],
+      "images": [
+        "/images/787-cosmo-indoor-vooraanzicht.webp",
+        "/images/788-cosmo-indoor.webp",
+        "/images/789-cosmo-indoor.webp"
+      ],
+      "colors": ["Wit"],
+      "ctaText": "Gree Cosmo offerte"
+    },
+    {
+      "id": "lg-mobiele-airco",
+      "name": "LG Mobiele Airco",
+      "brand": "LG",
+      "category": "mobiele-airco",
+      "description": "Flexibele mobiele airconditioner voor elke ruimte",
+      "features": [
+        "Volledig mobiel",
+        "Eenvoudige installatie",
+        "Verschillende standen",
+        "Remote control",
+        "Flexibel gebruik"
+      ],
+      "images": [
+        "/images/mobiele airco/lg mobiele airco/lg-mobiele-airco-staycoolairco.webp",
+        "/images/mobiele airco/lg mobiele airco/lg-mobiele-airco-staycoolairco-1.webp",
+        "/images/mobiele airco/lg mobiele airco/lg-mobiele-airco-staycoolairco-2.webp",
+        "/images/mobiele airco/lg mobiele airco/lg-mobiele-airco-staycoolairco-3.webp"
+      ],
+      "colors": ["Wit"],
+      "ctaText": "LG Mobiele Airco huren"
+    },
+    {
+      "id": "tosot-mobiele-airco",
+      "name": "Tosot Mobiele Airco",
+      "brand": "Tosot",
+      "category": "mobiele-airco",
+      "description": "Krachtige mobiele airco voor maximale flexibiliteit",
+      "features": [
+        "Krachtige koeling",
+        "Mobiele opstelling",
+        "Gebruiksvriendelijk",
+        "Goede prijs-kwaliteit",
+        "Flexibele oplossing"
+      ],
+      "images": [
+        "/images/mobiele airco/tosot mobiele airco/tosot-mobiele-airco-staycoolairco-1.webp",
+        "/images/mobiele airco/tosot mobiele airco/tosot-mobiele-airco-staycoolairco-2.webp",
+        "/images/mobiele airco/tosot mobiele airco/tosot-mobiele-airco-staycoolairco-3.webp",
+        "/images/mobiele airco/tosot mobiele airco/tosot-mobiele-airco-staycoolairco-4.webp"
+      ],
+      "colors": ["Wit"],
+      "ctaText": "Tosot Mobiele huren"
+    }
+  ]
+}

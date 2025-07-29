@@ -20,6 +20,9 @@ export default function Header() {
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center space-x-8">
+            <Link href="/producten" className="text-gray-600 hover:text-blue-600">
+              Producten
+            </Link>
             <Link href="/diensten" className="text-gray-600 hover:text-blue-600">
               Diensten
             </Link>
@@ -56,6 +59,12 @@ export default function Header() {
         {isMenuOpen && (
           <div className="md:hidden py-4">
             <div className="flex flex-col space-y-4">
+              <Link
+                href="/producten"
+                className="text-gray-600 hover:text-blue-600 px-2"
+              >
+                Producten
+              </Link>
               <Link
                 href="/diensten"
                 className="text-gray-600 hover:text-blue-600 px-2"

@@ -50,6 +50,11 @@ export function HeroSection() {
                   Offerte Aanvragen
                 </Button>
               </Link>
+              <Link href="https://afspraken.staycoolairco.nl/" target="_blank" rel="noopener noreferrer">
+                <Button size="lg" className="bg-orange-600 hover:bg-orange-700">
+                  Plan Thuis Afspraak
+                </Button>
+              </Link>
               <Link href="tel:0462021430">
                 <Button size="lg" variant="outline" className="bg-white/10 hover:bg-white/20">
                   <Phone className="mr-2 h-5 w-5" />
